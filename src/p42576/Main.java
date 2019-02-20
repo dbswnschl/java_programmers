@@ -9,5 +9,4 @@ public class Main {
 		String[] completion = {"eden", "kiki"};
 		System.out.println(sol.solution(participant, completion));
 	}
-
 }
